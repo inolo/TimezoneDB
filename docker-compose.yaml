@@ -1,0 +1,10 @@
+version: "3.10"
+services:
+  backend:
+    container_name: TimezoneDB
+    ports:
+      - '8000:8000'
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: python main.py
