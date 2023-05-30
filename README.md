@@ -19,6 +19,7 @@ already exists.
 Hint: To achieve number 4 you can create a stage table before writing into TZDB_ZONE_DETAILS.
 
 Notes:
+
 • To get access to the API provided by TimezoneDB go to: https://timezonedb.com and create an
 account (free), you will be provided with a Key that you can use in your scripts.
 
