@@ -25,3 +25,5 @@ account (free), you will be provided with a Key that you can use in your scripts
 There are a few endpoints to use:
 • Get List: Use this one to populate the TZDB_TIMEZONES table.
 • Get Time Zone: Use this one to populate TZDB_ZONE_DETAILS
+![table1](https://github.com/inolo/TimezoneDB/assets/10506956/acf08d59-2bb2-410f-bcfa-0936649100b7)
+![table2](https://github.com/inolo/TimezoneDB/assets/10506956/1facf722-28c6-4a9b-8b82-ba89494e1993)
