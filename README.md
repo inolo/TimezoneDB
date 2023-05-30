@@ -21,9 +21,13 @@ Hint: To achieve number 4 you can create a stage table before writing into TZDB_
 Notes:
 • To get access to the API provided by TimezoneDB go to: https://timezonedb.com and create an
 account (free), you will be provided with a Key that you can use in your scripts.
+
 • You can use your preferred database to upload the data.
 There are a few endpoints to use:
-• Get List: Use this one to populate the TZDB_TIMEZONES table.
-• Get Time Zone: Use this one to populate TZDB_ZONE_DETAILS
+
+  • Get List: Use this one to populate the TZDB_TIMEZONES table.
+  
+  • Get Time Zone: Use this one to populate TZDB_ZONE_DETAILS
+
 ![table1](https://github.com/inolo/TimezoneDB/assets/10506956/acf08d59-2bb2-410f-bcfa-0936649100b7)
 ![table2](https://github.com/inolo/TimezoneDB/assets/10506956/1facf722-28c6-4a9b-8b82-ba89494e1993)
